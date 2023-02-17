@@ -1,1 +1,23 @@
-<feed xmlns="http://www.w3.org/2005/Atom"> <id>/yann-zhg.github.io/</id><title>Chirpy</title><subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle> <updated>2023-02-17T11:27:43+08:00</updated> <author> <name>your_full_name</name> <uri>/yann-zhg.github.io/</uri> </author><link rel="self" type="application/atom+xml" href="/yann-zhg.github.io/feed.xml"/><link rel="alternate" type="text/html" hreflang="en" href="/yann-zhg.github.io/"/> <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator> <rights> © 2023 your_full_name </rights> <icon>/yann-zhg.github.io/assets/img/favicons/favicon.ico</icon> <logo>/yann-zhg.github.io/assets/img/favicons/favicon-96x96.png</logo> </feed>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/yann-zhg.github.io/</id>
+  <title>Chirpy</title>
+  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
+  <updated>2023-02-17T11:57:17+08:00</updated>
+  <author>
+    <name>Yann</name>
+    <uri>http://localhost:4000/yann-zhg.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/yann-zhg.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/yann-zhg.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Yann </rights>
+  <icon>/yann-zhg.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>/yann-zhg.github.io/assets/img/favicons/favicon-96x96.png</logo>
+
+
+</feed>
+
+
